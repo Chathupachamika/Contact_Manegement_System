@@ -98,7 +98,7 @@ class Customer {
 
   static void addContacts() {
     print("\n+---------------------------------+");
-    print("|           Add Contact           |");
+    print("|          Add New Contact        |");
     print("+---------------------------------+\n");
     String id = globalContactList.generateId();
     stdout.write("Name: ");
